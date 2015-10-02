@@ -1,2 +1,2 @@
 # cours2016
-Manip de cours
+Manip de cours 2016
